@@ -1,1 +1,1 @@
-# streamlit_code
+# Streamlitでエッジ検出を行うアプリ
